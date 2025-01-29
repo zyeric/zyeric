@@ -7,8 +7,8 @@ I am **Yi Zhu**, currently working as a **Senior Research Engineer** in the **Sy
 ### Selected Works
 - **Core Contributor to [nnScaler](https://github.com/microsoft/nnscaler)**  
     - Played a key role in the early development of the `autodist` module, enabling efficient and feasible execution plans by considering memory consumption of deep learning models.  
-        - Contributed to [YOCO](https://arxiv.org/pdf/2405.05254) and [Diff Transformer](https://arxiv.org/pdf/2410.05258?), particularly in the distributed training phase for models with long sequences.  
-        - Participated in [rStar-Math](https://arxiv.org/pdf/2501.04519), providing suggestions for distributed training and inference.
+    - Contributed to [YOCO](https://arxiv.org/pdf/2405.05254) and [Diff Transformer](https://arxiv.org/pdf/2410.05258?), particularly in the distributed training phase for models with long sequences.  
+    - Participated in [rStar-Math](https://arxiv.org/pdf/2501.04519), providing suggestions for distributed training and inference.
 - **Early Contributor to the Open-Source Distributed Training Framework [OneFlow](https://github.com/Oneflow-Inc/oneflow)**  
 
 ---
